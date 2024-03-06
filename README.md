@@ -4,8 +4,10 @@
 
 <img src="https://github.com/KuMMii/mokkoji/assets/128502524/fb2d2bac-5057-4cc1-bdf2-06b1cdcc8427" width="300"/><br>
 
-💻SSAFY 10기 2학기 공통 프로젝트💻<br>
+#### 💻SSAFY 10기 2학기 공통 프로젝트💻<br>
+##### 우수 프로젝트 수상🎖
 2024.01.03 - 2024.02.16(45일)
+
 
 ## 목차
 
